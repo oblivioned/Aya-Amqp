@@ -13,4 +13,5 @@ Actually, it's a producer. use rabbitmq.
 # 请求的格式为
 
 POST : http://localhost:port/path
+
 RawBody : {"sender":"0x12sfklj1871891723891789","data":{"sig":"Transfer","parmas":["Address2","1"]},"sign":"0xSDLKJFLKSsdlkfjlksdlkfjlk23j4234sldkfjklj"}
